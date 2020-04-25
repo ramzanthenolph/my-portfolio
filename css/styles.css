@@ -1,0 +1,23 @@
+body{
+    background-color:#3D4042;
+    color: white;
+    margin: 20px;
+    
+}
+
+img{
+    float: left;
+    height: 40%;
+    width: 40%;
+}
+.column{
+    max-width: 500px;
+    margin: auto;
+    font-family: courier;
+    
+}
+div{
+    padding: 6px;
+    margin: 10px;
+    border: 2px;
+}
