@@ -4,7 +4,7 @@ body{
     margin: 20px;
     max-width: 600px;
     margin: auto;
-    font-family: courier;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
     
 }
 
@@ -15,9 +15,9 @@ img{
     margin: 2px;
 }
 .column{
-    max-width: 600px;
+    
     margin: auto;
-    font-family: courier;
+    float: left;
     
 }
 div{
@@ -36,4 +36,8 @@ h1.header{
 }
 a{
     color: pink;
+}
+
+.footer{
+    text-align: center;
 }
