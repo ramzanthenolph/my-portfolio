@@ -1,0 +1,72 @@
+body{
+    background-image: url("../images/rama.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    height: auto;
+    width: 100%;
+    color: white;
+}
+
+.jumbotron{
+    background: maroon;
+    opacity: 75%;
+    align-items: right;
+    margin-top: 5%;
+    padding-top: 17%;
+    padding-bottom: 17%;
+    padding-left: 60px;
+    
+}
+.portfolio{
+    background-color: #333333;
+    opacity: 75%;
+    padding: 10%;
+}
+.about{
+    padding-top: 17%;
+}
+.contact{
+    background: maroon;
+    opacity: 75%;
+    padding: 10%;
+    margin-top: 10%;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  .fa-instagram {
+    background: #ea4c89;
+    color: white;
+  }
+    
+.footer{
+    text-align: right;
+}
+
